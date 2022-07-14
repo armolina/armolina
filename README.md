@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @armolina and this is my public repository, you can find examples, courses documentation and interesting things that I do in my side projects.
+- 👋 Hi, I’m Ramón Molina and this is my profile on github, you can find katas, courses documentation and interesting things that I do in my side projects.
+
+Currently I´m working like an Agile Delivery Manager @ Codurance.
 
 <!---
 armolina/armolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
